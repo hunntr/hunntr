@@ -2,8 +2,6 @@
 I'm a 1st year CS Student, located in France, and passionate about **cybersecurity**.<br>
 I enjoy continuously learning and working on offensive security challenges.<br>
 
----
-
 ## Main Skills
 - **Web Pentesting**: Identifying design and implementation flaws in web applications and APIs, from access control issues to protocol misuse.
 - **Linux**: Comfortable navigating and operating in Linux environments, from daily use to privilege escalation and system hardening.
