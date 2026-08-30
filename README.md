@@ -1,5 +1,5 @@
 ## About Me
-I'm a 1st year cybersecurity student, located in France, specialized in **Linux, Web, and Windows/AD penetration testing**. I enjoy continuously learning and working on offensive security challenges.
+I’m a 2nd year cybersecurity student, located in France, specialized in Linux, Web, and Windows/AD penetration testing. I enjoy continuously learning and working on offensive security challenges.
 
 ## Certifications
 - **[HTB Certified Web Exploitation Specialist (CWES)](https://www.credly.com/badges/53746e69-b682-4d9f-a6cc-a477f8570080/public_url)** - Hack The Box
