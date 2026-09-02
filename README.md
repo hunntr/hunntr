@@ -11,6 +11,3 @@ I'm a 2nd year cybersecurity student, located in France, specialized in Linux, W
 - **LLM/AI Pentesting**: Assessing the security of Large Language Models and AI applications, including prompt injection, jailbreaks, and agent/tool exploitation.
 - **Reverse/Pwn**: Low-level knowledge in C, C++ and ASM, understanding compilation internals and how to reverse code.
 - **Forensics**: Analyzing artifacts, memory dumps, logs and file systems to reconstruct what happened and how.
-
-## Projects
-- **[trustbin](https://github.com/hunntr/trustbin)**: Offensive security tools recompiled directly from their official upstream source through a public, auditable CI pipeline. Every binary ships with a checksum and a signed build provenance attestation, so instead of trusting a random `.exe` from a forum or a Discord server, you can verify exactly what source it came from and how it was built.
